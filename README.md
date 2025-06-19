@@ -1,1 +1,2 @@
 # MineGuard2040
+MineGuard 2040 is an innovative IoT-based safety system designed to address critical challenges in Oman’s mining industry. By integrating real-time monitoring of worker health (fatigue, toxic gases), machine performance (overload, overheating), and environmental conditions (dust pollution), the system enhances safety, reduces accidents, and aligns with Oman Vision 2040’s goals of sustainability and technological advancement.
